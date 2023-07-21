@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemAD"
+        android:orderInCategory="100"
+        android:title="Alert Dialog" />
+    <item
+        android:id="@+id/itemCD"
+        android:orderInCategory="200"
+        android:title="Configured Dialog" />
+    <item
+        android:id="@+id/itemCAD"
+        android:orderInCategory="300"
+        android:title="Custom Alert Dialog" />
+    <item
+        android:id="@+id/itemContext"
+        android:orderInCategory="50"
+        android:title="Context Menu" />
+</menu>
